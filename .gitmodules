@@ -1,0 +1,6 @@
+[submodule "neighbors"]
+	path = neighbors
+	url = https://github.com/pelican-plugins/neighbors
+[submodule "pelican-readtime"]
+	path = pelican-readtime
+	url = https://github.com/wayofnumbers/pelican-readtime
